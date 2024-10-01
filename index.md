@@ -1,5 +1,6 @@
 
-![IMG_8382](https://github.com/user-attachments/assets/61f8c512-4df9-4495-840c-e79a16118df8)
+![IMG_8382](https://github.com/user-attachments/assets/a07df09f-4203-48b6-b976-89bf85be2243)
+
 
 ### PhD Student | Single Cell Genomics, Bioinformatics, AI/ML
 
