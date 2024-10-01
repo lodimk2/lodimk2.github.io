@@ -1,16 +1,16 @@
 <style>
 .headshot {
-    float: left; /* Aligns the image to the left */
-    width: 100px; /* Adjust size as needed */
-    height: 100px; /* Ensures a circular shape */
-    border-radius: 50%; /* Makes the image circular */
-    border: 3px solid #ccc; /* Adds a border; adjust color and thickness as needed */
-    margin-right: 15px; /* Adds space between the image and text */
-    object-fit: cover; /* Ensures the image covers the area without distortion */
+  float: left; /* Aligns the image to the left */
+  width: 100px; /* Adjust size as needed */
+  height: 100px; /* Ensures a circular shape */
+  border-radius: 50%; /* Makes the image circular */
+  border: 3px solid #ccc; /* Adds a border; adjust color and thickness as needed */
+  margin-right: 15px; /* Adds space between the image and text */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
 }
 </style>
 
-<img class="headshot" src="https://github.com/user-attachments/assets/e2b337a2-400d-4d94-b257-20fc9c26bff8" alt="mlodi_headshot">
+![mlodi_headshot](https://github.com/user-attachments/assets/e2b337a2-400d-4d94-b257-20fc9c26bff8){: .headshot}
 
 ### PhD Student | Single Cell Genomics, Bioinformatics, AI/ML
 
