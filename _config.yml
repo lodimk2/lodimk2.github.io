@@ -1,5 +1,5 @@
 # Site settings
-title: "Musaddiq Lodi's Portfolio"
+title: "Musaddiq Lodi"
 description: "My portfolio showcasing work in Single Cell Genomics, Multi-Modal Integration, and AI/ML in Computational Biology."
 baseurl: "" # Leave empty if using a custom domain or GitHub Pages root
 url: "https://lodimk2.github.io" # Your website URL
