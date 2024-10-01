@@ -4,6 +4,9 @@ description: "My portfolio showcasing work in Single Cell Genomics, Multi-Modal 
 baseurl: "" # Leave empty if using a custom domain or GitHub Pages root
 url: "https://lodimk2.github.io" # Your website URL
 
+# Theme
+remote_theme: yousinix/portfolYOU
+
 # Author settings
 author:
   name: "Musaddiq Lodi"
@@ -34,7 +37,7 @@ nav_links:
   - title: "Contact"
     url: "/contact/"
 
-# Social settings (these will display on the site)
+# Social Settings
 social_links:
   github: "https://github.com/lodimk2"
   linkedin: "https://linkedin.com/in/your-linkedin"
