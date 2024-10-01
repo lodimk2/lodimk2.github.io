@@ -1,4 +1,5 @@
-![mlodi_headshot](https://github.com/user-attachments/assets/e2b337a2-400d-4d94-b257-20fc9c26bff8)
+
+![IMG_8382](https://github.com/user-attachments/assets/61f8c512-4df9-4495-840c-e79a16118df8)
 
 ### PhD Student | Single Cell Genomics, Bioinformatics, AI/ML
 
