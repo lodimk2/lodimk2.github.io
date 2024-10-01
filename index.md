@@ -1,8 +1,8 @@
 <style>
 .headshot {
  float: left; /* Aligns the image to the left */
- width: 100px; /* Adjust size as needed */
- height: 100px; /* Ensures a square shape */
+ width: 20; /* Adjust size as needed */
+ height: 20; /* Ensures a square shape */
  border-radius: 50%; /* Makes the image circular */
  border: 3px solid #ccc; /* Adds a border; adjust color and thickness as needed */
  margin-right: 20px; /* Adds space between the image and text */
@@ -14,7 +14,7 @@
 
 <div style="margin-left: 150px;"> <!-- Adjust the margin-left value as needed -->
 
-### PhD Student | Single Cell Genomics, Bioinformatics, AI/ML
+#### PhD Student | Single Cell Genomics, Bioinformatics, AI/ML
 
 I am an Integrative Life Sciences PhD student at Virginia Commonwealth University with experience in single-cell genomic method development, multi-omic data integration, computational biology, and precision medicine. I am a member of the Biological Networks Laboratory in the VCU Department of Computer Science, under the supervision of Dr. Preetam Ghosh. This website serves as a resource to list my current research, archive previous projects, and connect with other researchers.
 </div>
