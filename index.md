@@ -3,5 +3,4 @@
 </p>
 
 <h3 align="center">PhD Student | Single Cell Genomics, Bioinformatics, AI/ML</h3>
-
-Your additional text here...
+<h2 align="center">Cricket | Literature | Music
