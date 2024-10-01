@@ -1,7 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab0d3d2b-71d6-4b52-8b6e-e1912d6088e7" width="200" height="200" style="border: 3px solid #ccc; object-fit: cover; margin-right: 20px;">
+</p>
 
-![IMG_8382](https://github.com/user-attachments/assets/0e1cae03-f6f1-4305-a059-ad55ea8ab205)
-
-
-### PhD Student | Single Cell Genomics, Bioinformatics, AI/ML
+<h3 align="center">PhD Student | Single Cell Genomics, Bioinformatics, AI/ML</h3>
 
 Your additional text here...
