@@ -1,0 +1,59 @@
+# Site settings
+title: "Musaddiq Lodi's Portfolio"
+description: "My portfolio showcasing work in Single Cell Genomics, Multi-Modal Integration, and AI/ML in Computational Biology."
+baseurl: "" # Leave empty if using a custom domain or GitHub Pages root
+url: "https://lodimk2.github.io" # Your website URL
+
+# Author settings
+author:
+  name: "Musaddiq Lodi"
+  email: "lodimk2@vcu.edu"
+  bio: "PhD student in Integrative Life Sciences, specializing in Bioinformatics. Passionate about computational biology, single-cell genomics, and machine learning."
+  location: "VCU, USA"
+  avatar: "/assets/images/avatar.png" # Path to your profile picture (place image in the assets/images folder)
+  github: "https://github.com/lodimk2"
+  linkedin: "https://linkedin.com/in/your-linkedin"
+  twitter: "https://twitter.com/your-twitter"
+  stackoverflow: "https://stackoverflow.com/users/your-profile"
+  instagram: "https://instagram.com/your-instagram"
+  facebook: "https://facebook.com/your-facebook"
+
+# Portfolio settings
+show_projects_on_homepage: true
+
+# Navbar Links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Social settings (these will display on the site)
+social_links:
+  github: "https://github.com/lodimk2"
+  linkedin: "https://linkedin.com/in/your-linkedin"
+  twitter: "https://twitter.com/your-twitter"
+  email: "lodimk2@vcu.edu"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (optional, add plugins as needed)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination settings
+paginate: 6
+paginate_path: "/page/:num/"
+
+# SEO settings (for better visibility)
+google_analytics: "UA-XXXXXXXX-X" # Replace with your Google Analytics tracking ID
