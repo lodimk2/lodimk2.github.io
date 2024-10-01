@@ -1,11 +1,11 @@
 <style>
 .headshot {
   float: left; /* Aligns the image to the left */
-  width: 250; /* Adjust size as needed */
-  height: 250; /* Ensures a square shape */
+  width: 150; /* Adjust size as needed */
+  height: 150; /* Ensures a square shape */
   border-radius: 50%; /* Makes the image circular */
   border: 3px solid #ccc; /* Adds a border; adjust color and thickness as needed */
-  margin-right: 60px; /* Adds space between the image and text */
+  margin-right: 100px; /* Adds space between the image and text */
   object-fit: cover; /* Ensures the image covers the area without distortion */
 }
 </style>
