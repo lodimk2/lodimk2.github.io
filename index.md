@@ -1,6 +1,7 @@
 # Welcome!
 
 <img width="289" alt="mlodi_headshot" src="https://github.com/user-attachments/assets/857ec0fa-9b6c-481b-8474-240ecd8e0fb0">
+
 ### PhD Student | Single Cell Genomics, Bioinformatics, AI/ML
 
 
