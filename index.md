@@ -1,4 +1,4 @@
-![IMG_6489](https://github.com/user-attachments/assets/ad2562d6-a8af-4407-a60a-14c83c925df2){: style="float: left; width: 100px; height: 100px; border: 3px solid #ccc; object-fit: cover; margin-right: 20px;"}
+![IMG_6489](https://github.com/user-attachments/assets/ad2562d6-a8af-4407-a60a-14c83c925df2){: style="float: left; width: 200; height: 200; border: 3px solid #ccc; object-fit: cover; margin-right: 20px;"}
 
 ### PhD Student | Single Cell Genomics, Bioinformatics, AI/ML
 
