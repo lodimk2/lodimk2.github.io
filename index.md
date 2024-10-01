@@ -1,8 +1,8 @@
 <style>
 .headshot {
   float: left; /* Aligns the image to the left */
-  width: 150px; /* Adjust size as needed */
-  height: 150px; /* Ensures a square shape */
+  width: 400px; /* Adjust size as needed */
+  height: 400px; /* Ensures a square shape */
   border-radius: 50%; /* Makes the image circular */
   border: 3px solid #ccc; /* Adds a border; adjust color and thickness as needed */
   margin-right: 30px; /* Adds space between the image and text */
@@ -12,7 +12,7 @@
 
 ![mlodi_headshot](https://github.com/user-attachments/assets/e2b337a2-400d-4d94-b257-20fc9c26bff8){: .headshot}
 
-<div style="margin-left: 200px;"> <!-- Adjust the margin-left value as needed -->
+<div style="margin-left: 500;"> <!-- Adjust the margin-left value as needed -->
   
   ### PhD Student | Single Cell Genomics, Bioinformatics, AI/ML
 
