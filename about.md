@@ -30,7 +30,7 @@ title: About
 </style>
 
 <div style="border: 1px solid #e0e0e0; padding: 10px;">
-## About Me
+<h3>About Me</h3>
 
 I am an Integrative Life Sciences PhD student at Virginia Commonwealth University with experience in single-cell genomic method development, multi-omic data integration, computational biology, and precision medicine. I am a member of the Biological Networks Laboratory in the VCU Department of Computer Science, under the supervision of Dr. Preetam Ghosh.
 
@@ -40,8 +40,16 @@ I enjoy playing cricket, reading fiction, and listening/playing all types of mus
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-content">
-      <h3>Year - Year</h3>
-      <p>Your education details</p>
+      <h3>2023 - Present</h3>
+      <p>PhD | Integrative Life Sciences, Concentration in Bioinformatics | Virginia Commonwealth University</p>
+    </div>
+    <div class="timeline-content">
+      <h3>2023 - 2023</h3>
+      <p>M.S | Bioinformatics | Virginia Commonwealth University</p>
+    </div>
+      <div class="timeline-content">
+      <h3>2019 - 2023</h3>
+      <p>B.S | Bioinformatics | Virginia Commonwealth University</p>
     </div>
   </div>
   <!-- Add more timeline items as needed -->
