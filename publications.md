@@ -48,7 +48,7 @@ title: Publications
   }
   .publication strong {
     font-weight: bold;
-    color: #333; /* Adjust the color as needed */
+    color: white; /* Adjust the color as needed */
   }
 </style>
 <h1> Publications </h1>
