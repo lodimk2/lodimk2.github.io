@@ -48,7 +48,6 @@ title: Publications
   }
   .publication strong {
     font-weight: bold;
-    background-color: yellow; /* Set the background color to yellow for highlight effect */
     color: black;
   }
 </style>
