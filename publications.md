@@ -61,7 +61,7 @@ title: Publications
   <p>Authors:<strong>Musaddiq K. Lodi<\strong>, Muzammil Lodi, Kezie Osei, Vaishnavi Ranganathan, Priscilla Hwang, Preetam Ghosh</p>
   <p>Description: Consensus clustering through similarity matrix integration for single cell genomics data.</p>
   <a href="https://github.com/lodimk2/chai" class="btn" target="_blank">GitHub Repo</a>
-  <a href="ttps://academic.oup.com/bib/article/25/5/bbae411/7745034" class="btn" target="_blank">Paper Link</a>
+  <a href="https://academic.oup.com/bib/article/25/5/bbae411/7745034" class="btn" target="_blank">Paper Link</a>
 </div>
 
 <!-- Add more publication entries as needed -->
