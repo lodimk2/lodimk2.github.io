@@ -47,13 +47,13 @@ title: Publications
     border-radius: 5px;
   }
 </style>
-
+<h1> Publications </h1>
 <div class="publication">
-  <h3>Title of Publication 1</h3>
-  <p>Authors: Author 1, Author 2</p>
-  <p>Description: Brief description of the publication.</p>
-  <a href="https://github.com/your-github-repo" class="btn" target="_blank">GitHub Repo</a>
-  <a href="https://link-to-paper" class="btn" target="_blank">Paper Link</a>
+  <h3>COFFEE: consensus single cell-type specific inference for gene regulatory networks </h3>
+  <p>Authors: Musaddiq K. Lodi, Anna Chernikov, Preetam Ghosh</p>
+  <p>Description: Consensus regulatory network inference for single cell genomics data. </p>
+  <a href="https://github.com/your-github-repo](https://github.com/lodimk2/coffee" class="btn" target="_blank">GitHub Repo</a>
+  <a href="https://link-to-paper](https://academic.oup.com/bib/article/25/6/bbae457/7765455" class="btn" target="_blank">Paper Link</a>
 </div>
 
 <div class="publication">
