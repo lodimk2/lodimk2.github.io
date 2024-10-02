@@ -33,7 +33,7 @@ nav_links:
   - title: "Blog"
     url: "/blog/"
   - title: "About"
-    url: "/about/"
+    url: "about.md"
   - title: "Contact"
     url: "/contact/"
 
