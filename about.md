@@ -9,6 +9,7 @@ title: About
     --text-color-dark: #fff; /* Text color for dark background */
     --background-color-light: #f9f9f9; /* Background color for light mode */
     --background-color-dark: #333; /* Background color for dark mode */
+    --border-color: #ccc; /* Border color */
   }
 
   .timeline {
@@ -28,7 +29,8 @@ title: About
 
   .timeline-content {
     padding: 10px;
-    border-left: 2px solid #ccc;
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
     color: var(--text-color-light); /* Default text color for light background */
     background-color: var(--background-color-light); /* Default background color for light mode */
   }
