@@ -60,7 +60,7 @@ I enjoy playing cricket, reading fiction, and listening/playing all types of mus
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8a4d905-f9fa-4ca3-9901-02c4a4016200" width="250" height="250" style="border: 3px solid #ccc; object-fit: cover; margin-right: 20px; display: block; margin-left: auto; margin-right: auto;">
+  <img src="https://github.com/user-attachments/assets/a8a4d905-f9fa-4ca3-9901-02c4a4016200" width="400" height="400" style="border: 3px solid #ccc; object-fit: cover; margin-right: 20px; display: block; margin-left: auto; margin-right: auto;">
 </p>
 
 
