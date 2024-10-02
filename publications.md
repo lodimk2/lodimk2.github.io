@@ -58,7 +58,7 @@ title: Publications
 
 <div class="publication">
   <h3>CHAI: consensus clustering through similarity matrix integration for cell-type identification </h3>
-  <p>Authors: <strong>Musaddiq K. Lodi<\strong>, Muzammil Lodi, Kezie Osei, Vaishnavi Ranganathan, Priscilla Hwang, Preetam Ghosh</p>
+  <p>Authors: <strong>Musaddiq K. Lodi</strong>, Muzammil Lodi, Kezie Osei, Vaishnavi Ranganathan, Priscilla Hwang, Preetam Ghosh</p>
   <p>Description: Consensus clustering through similarity matrix integration for single cell genomics data.</p>
   <a href="https://github.com/lodimk2/chai" class="btn" target="_blank">GitHub Repo</a>
   <a href="https://academic.oup.com/bib/article/25/5/bbae411/7745034" class="btn" target="_blank">Paper Link</a>
