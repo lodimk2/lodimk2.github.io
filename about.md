@@ -59,9 +59,11 @@ I am an Integrative Life Sciences PhD student at Virginia Commonwealth Universit
 I enjoy playing cricket, reading fiction, and listening/playing all types of music. 
 </div>
 
-<p align="center">
+<div>
+<p align="left">
   <img src="https://github.com/user-attachments/assets/43b09c22-ecea-4088-bcbe-7ba45af0d1bb" width="400" height="400" style="border: 3px solid #ccc; object-fit: cover; margin-right: 20px; display: block; margin-left: auto; margin-right: auto;">
 </p>
+<\div>
 
 
 
