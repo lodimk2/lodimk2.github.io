@@ -70,16 +70,16 @@ I enjoy playing cricket, reading fiction, and listening/playing all types of mus
   <div class="timeline-item">
     <div class="timeline-icon">&#127891;</div>
     <div class="timeline-content">
-      <h3>2023 - Present</h3>
-      <p>PhD | Integrative Life Sciences, Concentration in Bioinformatics | Virginia Commonwealth University</p>
+      <h3>Aug 2023 - Present</h3>
+      <p><strong>PhD</strong> Integrative Life Sciences, Concentration in Bioinformatics <em>Virginia Commonwealth University<\em></p>
     </div>
     <div class="timeline-content">
-      <h3>2023 - 2023</h3>
-      <p>M.S | Bioinformatics | Virginia Commonwealth University</p>
+      <h3>Jan 2023 - Aug 2023</h3>
+      <p><strong>M.S<\strong> Bioinformatics <em>Virginia Commonwealth University<\em></p>
     </div>
       <div class="timeline-content">
-      <h3>2019 - 2023</h3>
-      <p>B.S | Bioinformatics | Virginia Commonwealth University</p>
+      <h3>Aug 2019 - Jan 2023</h3>
+      <p><strong>B.S<\strong> Bioinformatics <em>Virginia Commonwealth University<\em></p>
     </div>
   </div>
   <!-- Add more timeline items as needed -->
