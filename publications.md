@@ -46,6 +46,10 @@ title: Publications
     text-decoration: none;
     border-radius: 5px;
   }
+  .publication strong {
+    font-weight: bold;
+    color: #333; /* Adjust the color as needed */
+  }
 </style>
 <h1> Publications </h1>
 <div class="publication">
