@@ -29,7 +29,7 @@ nav_links:
   - title: "Home"
     url: "/"
   - title: "Projects"
-    url: "/projects_page/index.html"
+    url: "/projects_page/"
   - title: "Blog"
     url: "/blog/"
   - title: "About"
