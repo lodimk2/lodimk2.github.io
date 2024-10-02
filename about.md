@@ -7,6 +7,8 @@ title: About
   :root {
     --text-color-light: #333; /* Text color for light background */
     --text-color-dark: #fff; /* Text color for dark background */
+    --background-color-light: #f9f9f9; /* Background color for light mode */
+    --background-color-dark: #333; /* Background color for dark mode */
   }
 
   .timeline {
@@ -25,16 +27,17 @@ title: About
   }
 
   .timeline-content {
-    background-color: #f9f9f9;
     padding: 10px;
     border-left: 2px solid #ccc;
     color: var(--text-color-light); /* Default text color for light background */
+    background-color: var(--background-color-light); /* Default background color for light mode */
   }
 
-  /* Adjust text color for dark mode */
+  /* Adjust text and background color for dark mode */
   @media (prefers-color-scheme: dark) {
     .timeline-content {
       color: var(--text-color-dark); /* Text color for dark background */
+      background-color: var(--background-color-dark); /* Background color for dark mode */
     }
   }
 
@@ -46,7 +49,6 @@ title: About
     margin: 5px 0;
   }
 </style>
-
 <div style="border: 1px solid #e0e0e0; padding: 10px;">
 <h3>About Me</h3>
 
