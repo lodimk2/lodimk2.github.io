@@ -4,6 +4,11 @@ title: About
 ---
 
 <style>
+  :root {
+    --text-color-light: #333; /* Text color for light background */
+    --text-color-dark: #fff; /* Text color for dark background */
+  }
+
   .timeline {
     position: relative;
     padding: 20px 0;
@@ -14,10 +19,23 @@ title: About
     margin: 10px 0;
   }
 
+  .timeline-icon {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+
   .timeline-content {
     background-color: #f9f9f9;
     padding: 10px;
     border-left: 2px solid #ccc;
+    color: var(--text-color-light); /* Default text color for light background */
+  }
+
+  /* Adjust text color for dark mode */
+  @media (prefers-color-scheme: dark) {
+    .timeline-content {
+      color: var(--text-color-dark); /* Text color for dark background */
+    }
   }
 
   .timeline-content h3 {
@@ -39,6 +57,7 @@ I enjoy playing cricket, reading fiction, and listening/playing all types of mus
 
 <div class="timeline">
   <div class="timeline-item">
+    <div class="timeline-icon">&#127891;</div>
     <div class="timeline-content">
       <h3>2023 - Present</h3>
       <p>PhD | Integrative Life Sciences, Concentration in Bioinformatics | Virginia Commonwealth University</p>
