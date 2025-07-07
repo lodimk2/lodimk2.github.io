@@ -14,14 +14,6 @@ I build open-source packages in Python and R to advance researcher's understandi
 
 CORTADO is a PyPi package for robust marker gene inference. For a full description of the method as well as the user guide, please see the GitHub repository. 
 
-
-### Install CORTADO
- 
-```python
-pip install cortado-marker
-import cortado_marker as cortado
-```
-
 # COFFEE
 <img width="1059" alt="image" src="https://github.com/user-attachments/assets/3ef076ce-8b0f-4066-93b2-c14040b62b2d" />
 
